@@ -1,67 +1,58 @@
-# Hi, I'm Sarmad Ishtiaq 👋
+<h1 align="center">Hi, I'm Sarmad Ishtiaq 👋</h1>
 
-🎓 Computer Science Graduate (BS CS, University of the Punjab, Jhelum Campus) <br>
-🚀 Aspiring **GTM Engineer** — blending automation, APIs, and AI to power growth workflows<br>
-📍 Based in Pakistan
+<p align="center">
+  <b>Computer Science Graduate</b> · Python & Applied Machine Learning · Full-Stack AI Development
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sarmad-ishtiaq"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Sarmad.ishtiaq.edu@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SarmadIshtiaq&color=1F3864&style=for-the-badge&label=Profile+Views" />
+</p>
 
 ---
 
-### 🔭 Currently
-- Building automation & integration projects using Python and REST APIs
-- Learning to connect CRMs (HubSpot/Salesforce) with AI-powered workflows
-- Exploring tools like Clay, Zapier/n8n, and LLM APIs for GTM automation
+### 🎯 About Me
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+Recent Computer Science graduate (University of the Punjab, Jhelum) seeking a **Full Stack AI Intern** role. I like shipping working systems end-to-end rather than stopping at theory — real data, real pipelines, real applications.
+
+- 🐍 Building with **Python** and applied **machine learning**
+- 🧠 Strong coursework foundation: supervised/unsupervised learning, reinforcement learning, backpropagation
+- 🤖 Comfortable working alongside modern AI-assisted dev tools (Claude, Kimi) to move fast without cutting corners
+- 📍 Based in Jhelum, Pakistan
+
+---
 
 ### 🛠️ Tech Stack
 
-**Languages & Core**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Machine Learning & Data**
-
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-**GTM & Automation**
-
-![APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat)
-![Automation](https://img.shields.io/badge/-Automation-orange?style=flat)
-
-**E-Commerce Tools**
-
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-![Amazon](https://img.shields.io/badge/-Amazon%20Seller%20Central-FF9900?style=flat&logo=amazon&logoColor=white)
-![eBay](https://img.shields.io/badge/-eBay-E53238?style=flat&logo=ebay&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
 ### 📌 Featured Projects
 
-**🔥 Autonomous Fire-Detection & Suppression Vehicle** — *University Hackathon (2024)*
-Embedded system (C++ / Arduino) that detects fire via onboard sensors and autonomously triggers a water-based suppression response. Built the full sense–decide–act control loop: sensor input, threshold-based decision logic, and actuator control.
+**[🎯 B2B Lead Scoring Model](https://github.com/SarmadIshtiaq/icp-fit-prediction)**
+End-to-end machine learning pipeline predicting lead conversion on a real 9,240-row dataset (Kaggle). Cleaned messy real-world data, compared Logistic Regression vs Random Forest, and evaluated with precision/recall/F1 — **80.5% accuracy, 73.5% F1**.
 
-**🏆 University Sports Management System** — *Final Year Project (2025–2026)*
-Full-stack platform (React.js, Python) with AI integration to automate event scheduling, performance tracking, and administrative workflows — reducing manual coordination across the system.
+**🏆 University Sports Management System**
+Full-stack platform with AI integration to automate event scheduling, performance tracking, and administrative workflows — reducing manual coordination across the system.
 
 ---
 
-### 📫 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarmadIshtiaq&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarmadIshtiaq&hide_border=true&background=FFFFFF&stroke=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" width="48%" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarmad-ishtiaq-a37297339/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Sarmad.ishtiaq.edu@gmail.com)
+---
+
+<p align="center">
+  📫 <b>Sarmad.ishtiaq.edu@gmail.com</b> &nbsp;|&nbsp; Open to Full Stack AI Intern opportunities
+</p>
